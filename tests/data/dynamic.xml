@@ -1,0 +1,34 @@
+<ValCurs ID="R01235" DateRange1="02.03.2001" DateRange2="14.03.2001" name="Foreign Currency Market Dynamic">
+    <Record Date="02.03.2001" Id="R01235">
+        <Nominal>1</Nominal>
+        <Value>28,6200</Value>
+    </Record>
+    <Record Date="03.03.2001" Id="R01235">
+        <Nominal>1</Nominal>
+        <Value>28,6500</Value>
+    </Record>
+    <Record Date="06.03.2001" Id="R01235">
+        <Nominal>1</Nominal>
+        <Value>28,6600</Value>
+    </Record>
+    <Record Date="07.03.2001" Id="R01235">
+        <Nominal>1</Nominal>
+        <Value>28,6300</Value>
+    </Record>
+    <Record Date="08.03.2001" Id="R01235">
+        <Nominal>1</Nominal>
+        <Value>28,6200</Value>
+    </Record>
+    <Record Date="12.03.2001" Id="R01235">
+        <Nominal>1</Nominal>
+        <Value>28,6200</Value>
+    </Record>
+    <Record Date="13.03.2001" Id="R01235">
+        <Nominal>1</Nominal>
+        <Value>28,6700</Value>
+    </Record>
+    <Record Date="14.03.2001" Id="R01235">
+        <Nominal>1</Nominal>
+        <Value>28,6500</Value>
+    </Record>
+</ValCurs>
