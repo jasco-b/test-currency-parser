@@ -72,7 +72,7 @@ class CurrencyList extends React.Component {
                 <form action="" onSubmit={this.submit.bind(this)} className={'mb-1'}>
                     <div className="row">
 
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-4 col-md-12">
                             <div className="form-group">
                                 <label htmlFor="">Valute</label>
                                 <input type="text" className={'form-control'}

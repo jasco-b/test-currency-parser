@@ -24,3 +24,20 @@ This app build for review. Please refer to task.md file.
 ## This project has test
 Run test
 `` php artisan test``
+
+## Task 1. Console commands
+1. Parsing by Date (Daily)
+`` php artisan currency:parse 2020-12-12``
+2. Parsing by Valute and date from and to
+`` php artisan currency:valute  R01820 --from=10.10.2019 --to=15.10.2019``
+
+## Task 2. API
+Api can filter by following params: valute, from and to
+Valute is valute id
+From and To is date in the format d.m.Y eg: 10.10.2019
+
+``{host}/api/currencies/prices``
+
+## Task 3.
+I have used React.js for this task
+![image](./screenshots/index.png)
