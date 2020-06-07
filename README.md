@@ -32,8 +32,10 @@ Run test
 `` php artisan currency:valute  R01820 --from=10.10.2019 --to=15.10.2019``
 
 ## Task 2. API
-Api can filter by following params: valute, from and to
-Valute is valute id
+Api can filter by following params: valute, from and to.
+
+Valute is valute id.
+
 From and To is date in the format d.m.Y eg: 10.10.2019
 
 ``{host}/api/currencies/prices``
